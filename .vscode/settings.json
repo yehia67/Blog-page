@@ -1,0 +1,9 @@
+{
+    "editor.insertSpaces": false,
+    "editor.autoIndent": false,
+    "editor.accessibilitySupport": "off",
+    "editor.wordWrap": "on",
+	"editor.detectIndentation": false,
+	"editor.highlightActiveIndentGuide": false,
+	"editor.hover.enabled": false
+}
